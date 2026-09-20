@@ -1,7 +1,9 @@
 # Lab: SQL Injection in WHERE Clause
 
 **Difficulty:** Apprentice
+
 **Category:** SQL Injection
+
 **Lab URL:** https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
 
 ## Vulnerability
